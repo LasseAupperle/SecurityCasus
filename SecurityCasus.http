@@ -1,0 +1,6 @@
+@SecurityCasus_HostAddress = http://localhost:5168
+
+GET {{SecurityCasus_HostAddress}}/DataController/
+Accept: application/json
+
+###
